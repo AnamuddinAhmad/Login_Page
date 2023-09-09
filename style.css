@@ -55,11 +55,11 @@ margin: 30px 0;
     color: #ffff;
 }
 .input-box i {
-position: absolute;
-right: 20px;
-top: 50px;
-transform: translate(-50%);
-font-size: 20px;    
+    position: absolute;
+    right: 47px;
+    margin-top: 19px;
+    transform: translate(-50%);
+    font-size: 20px;
 }
 .Wrapper .remember-forgot{
     display: flex;
